@@ -14,11 +14,11 @@ html, body {
 }
 
 .yellow {
-    background-color: darkblue;
+    background-color:darkgoldenrod;
     flex:1;
 }
 
 .maroon {
-    background-color: darkblue;
+    background-color: maroon;
     flex:1;
 }

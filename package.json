@@ -1,0 +1,20 @@
+{
+  "name": "simple-project",
+  "version": "1.0.0",
+  "description": "this is just a simple project",
+  "main": "index.js",
+  "scripts": {
+    "start": "http-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karanipeggy/simple-project.git"
+  },
+  "author": "Peggy Karani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/karanipeggy/simple-project/issues"
+  },
+  "homepage": "https://github.com/karanipeggy/simple-project#readme"
+}
